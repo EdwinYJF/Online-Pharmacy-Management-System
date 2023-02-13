@@ -1,0 +1,3 @@
+Customer name: Yong Jun Fai, House address: Bukit Indah, Email address: yongjunfai@gmail.com, Phone number: 0123456789, Gender: male, Date of birth (DD/MM/YY): 26/05/2002, USER ID: JunFai, Password: Yong123
+Customer name: Adam Loo, House address: Kajang, Email address: adamloo@gmail.com, Phone number: 0123456789, Gender: male, Date of birth (DD/MM/YY): 7/8/2003, USER ID: Adam, Password: adam123
+Customer name: Viknesh Ramamoorthy, House address: APU, Email address: email, Phone number: 0123456789, Gender: male, Date of birth (DD/MM/YY): 13/7/2022, USER ID: Vik, Password: 123

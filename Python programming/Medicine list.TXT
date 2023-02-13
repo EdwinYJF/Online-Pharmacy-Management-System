@@ -1,0 +1,9 @@
+Medicine name: Panadol, Specifications: Pain Killer, Medicine price: RM 5.0, Expiry date (DD/MM/YY): 12/4/2024 
+Medicine name: Antibiotics, Specifications: Kills bacteria, Medicine price: RM 8.0, Expiry date (DD/MM/YY): 10/7/2026 
+Medicine name: ISAP Silver Aloe Protection, Specifications: For moisturising, soothing effect, anti bacterial purpose, Medicine price: RM 50.0, Expiry date (DD/MM/YY): 29/10/2025 
+Medicine name: Panadol Water Soluble Paracetamol , Specifications: Relief pain, Medicine price: RM 3.2, Expiry date (DD/MM/YY): 17/2/2026 
+Medicine name: Danzen Tablets, Specifications: Anti-Inflammatory & Anti-Tumefacient, Medicine price: RM 6.0, Expiry date (DD/MM/YY): 14/1/2024 
+Medicine name: HURIX 600 Flu Cough Syrup 100ml, Specifications: Coughs, Colds & Flu, Medicine price: RM 18.83, Expiry date (DD/MM/YY): 11/12/2025 
+Medicine name: FLUIFORT ADULT COUGH SYRUP 120ML, Specifications: Coughs, Colds & Flu, Medicine price: RM 19.9, Expiry date (DD/MM/YY): 27/4/2024 
+Medicine name: UPHAMOL 650 10s, Specifications: Relieves Headaches, Medicine price: RM 2.59, Expiry date (DD/MM/YY): 5/2/2026 
+Medicine name: Sorbus Vitamin D 2000 IU (90 tablets), Specifications: Immunity, Joints, Muscles & Bones, Multivitamin & Minerals, Medicine price: RM 59.0, Expiry date (DD/MM/YY): 16/6/2026 

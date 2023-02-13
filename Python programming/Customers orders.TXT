@@ -1,0 +1,7 @@
+USER ID: JunFai, Order:  panadol, Quantity: 1
+
+USER ID: Adam, Order:  sorbus vitamin d 2000 iu (90 tablets), Quantity: 2
+
+USER ID: JunFai, Order:  panadol water soluble paracetamol, Quantity: 2
+
+USER ID: Vik, Order:  panadol, Quantity: 5
